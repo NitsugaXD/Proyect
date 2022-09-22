@@ -14,7 +14,7 @@ public class Validacion {
         String cargo = null;
         switch(tipoCargo){
             case 1 :
-                cargo="Ayudane contador";
+                cargo="Ayudane contador owo";
                 break;
             case 2 :
                 cargo="Contador General";
